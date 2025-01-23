@@ -13,6 +13,8 @@ load_dotenv()
 class security_description:
     security_name : str
     quantity : int
+    
+    # random changes for git testing
 
 config_list = [
     {
